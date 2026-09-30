@@ -1,6 +1,6 @@
-# 김동윤 | DevOps Engineer
+# DongYoon Kim | DevOps Engineer
 
-설정의 근거를 찾고, 배포 결과를 검증합니다.
+I make configuration changes with clear reasoning and verify deployment results.
 
 ## Tech Stack
 
@@ -14,15 +14,15 @@
 
 ## Experience
 
-- **수퍼게이트** · DevOps 엔지니어
-- **커브** · DevOps 엔지니어
-- **한화시스템 ICT부문** · 개발자 인턴
+- **SUPERGATE** · DevOps Engineer
+- **CURVC** · DevOps Engineer
+- **Hanwha Systems (ICT Division)** · Software Developer Intern
 
 ## Education
 
-- **구름 · 클라우드 엔지니어링 프로젝트 2기** | 2025.04 – 2025.06
-- **CJ올리브네트웍스 · Cloud Wave 4기** | 2024.12 – 2025.02
-- **경북대학교 컴퓨터학부 · 학사** | 2019.03 – 2024.08
+- **goorm · Cloud Engineering Project, 2nd Cohort** | 2025.04 – 2025.06
+- **CJ OliveNetworks · Cloud Wave, 4th Cohort** | 2024.12 – 2025.02
+- **Kyungpook National University · Computer Science and Engineering, Bachelor's Degree** | 2019.03 – 2024.08
 
 ## Certifications
 
@@ -34,4 +34,4 @@
 
 ## Algorithm
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=takedown2)](https://solved.ac/takedown2)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=takedown2)](https://solved.ac/takedown2)
