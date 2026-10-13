@@ -26,10 +26,10 @@ I make configuration changes with clear reasoning and verify deployment results.
 
 ## Certifications
 
-- **Certified Kubernetes Administrator (CKA)** | 2026.09
+- **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/c8a40534-7af9-4cc1-839d-ebb29ba1bb64/public_url)** | 2026.09
 - **SQLD** | 2026.03
-- **AWS Certified Machine Learning Engineer – Associate** | 2025.11
-- **AWS Certified Solutions Architect – Associate** | 2025.04
+- **[AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/81521f8a-39cf-4d90-ad1e-2499a0cf3f69/public_url)** | 2025.11
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b22f1054-628e-4eb8-9284-e3537aefb17d/public_url)** | 2025.04
 - **SAMSUNG SDS SW Certificate – Professional** | 2023.03
 
 ## Algorithm
