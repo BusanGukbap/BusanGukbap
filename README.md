@@ -26,6 +26,7 @@ I make configuration changes with clear reasoning and verify deployment results.
 
 ## Certifications
 
+- **OPIc(English) - IM2** | 2026.10
 - **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/c8a40534-7af9-4cc1-839d-ebb29ba1bb64/public_url)** | 2026.09
 - **SQLD** | 2026.03
 - **[AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/81521f8a-39cf-4d90-ad1e-2499a0cf3f69/public_url)** | 2025.11
